@@ -1,0 +1,11 @@
+# ----- DATABASE CONFIG -----
+DB_CONFIG = {
+    "host": "your data",
+    "user": "your data",
+    "password": "your data",
+    "database": "your data",
+    "port": 3306
+}
+
+# ----- OPENAI CONFIG -----
+OPENAI_API_KEY = "your key"
